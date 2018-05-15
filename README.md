@@ -1,7 +1,9 @@
-# AJB2018
+# AJB2018 - MetaData
 Data for AJB 2018 paper
 
-CITE Messier et al. 2018. Similarities and differences in intrapopulation trait correlations of co-occurring tree species: Consistent water use relationships amidst widely different correlation patterns. American Journal of Botany. Data owner: Julie Messier. Email address of owner: julie dot messier at gmail dot com. Data DOI: 10.5281/zenodo.1247232 - https://doi.org/10.5281/zenodo.1247232. Please do not use without prior permission. Dataset Name: MSH Individual Tree Traits 2011-2015 Dates of data collection: May 2011 - June 2015. 
+CITE Messier et al. 2018. Similarities and differences in intrapopulation trait correlations of co-occurring tree species: Consistent water use relationships amidst widely different correlation patterns. American Journal of Botany.
+
+Data owner: Julie Messier. Email address of owner: julie dot messier at gmail dot com. Data DOI: 10.5281/zenodo.1247232 - https://doi.org/10.5281/zenodo.1247232. Please do not use without prior permission. Dataset Name: MSH_Sapling_Traits_2011-2015. Dates of data collection: May 2011 - June 2015. 
 
 SIZE Number of traits: 17, Number of enviornmental variables: 20, Number of covariates: 6,  Number of species: 24, Number of individuals: 380.
 
