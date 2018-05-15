@@ -1,9 +1,9 @@
 # AJB2018
 Data for AJB 2018 paper
 
-CITE Messier et al. 2018. Similarities and differences in intrapopulation trait correlations of co-occurring tree species: Consistent water use relationships amidst widely different correlation patterns. American Journal of Botany. Data owner: Julie Messier. Email address of owner: julie dot messier at gmail dot com. Data DOI: 10.5281/zenodo.1247232  https://doi.org/10.5281/zenodo.1247232. Please do not use without prior permission. Dataset Name: MSH Individual Tree Traits 2011-2014 Dates of data collection: May 2011 - June 2015. 
+CITE Messier et al. 2018. Similarities and differences in intrapopulation trait correlations of co-occurring tree species: Consistent water use relationships amidst widely different correlation patterns. American Journal of Botany. Data owner: Julie Messier. Email address of owner: julie dot messier at gmail dot com. Data DOI: 10.5281/zenodo.1247232 - https://doi.org/10.5281/zenodo.1247232. Please do not use without prior permission. Dataset Name: MSH Individual Tree Traits 2011-2015 Dates of data collection: May 2011 - June 2015. 
 
-SIZE Number of traits: 17, Number of enviornmental varaibles: 20, Number of covariates: 6,  Number of species: 24, Number of individuals: 380.
+SIZE Number of traits: 17, Number of enviornmental variables: 20, Number of covariates: 6,  Number of species: 24, Number of individuals: 380.
 
 SITE Study site: Mont Saint-Hilaire & immediate surroundings, Montérégie, Québec, Canada Boundary coordinates North: 45°34'32.1"N (45.575578) Boundary coordinates South: 45°31'44.8"N (45.529022) Boundary coordinates East: 73°11'41.2"W (-73.194784) Boundary coordinates West: 73°07'43.6"W ( -73.128778) Data georeferenced: yes
 
