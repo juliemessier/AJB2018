@@ -1,4 +1,4 @@
-# AJB2018 - MetaData
+# MessierAmJBot2018 - MetaData
 Data for AJB 2018 paper
 
 CITE Messier et al. 2018. Similarities and differences in intrapopulation trait correlations of co-occurring tree species: Consistent water use relationships amidst widely different correlation patterns. American Journal of Botany.
